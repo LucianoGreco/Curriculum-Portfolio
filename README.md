@@ -1,9 +1,11 @@
+---
+---
+---
 # 🎮 Lucho Greco - 💻 Desarrollador Full Stack 
 ![Luciano Greco](./img/personales/LucianoGreco.jpeg)
-
 ---
 
-## Datos Personales
+## 📋 Datos Personales
 - **Nombre:** Luciano Gabriel Greco
 - **Fecha de Nacimiento:** 1992
 - **Ubicación:** San Rafael, Mendoza, Argentina
@@ -12,12 +14,12 @@
 
 ---
 
-## Resumen Profesional  
+## ✂ Resumen Profesional  
 Desarrollador Full Stack con experiencia en frontend y backend, apasionado por crear soluciones innovadoras y eficientes. Manejo tecnologías como Java, Spring Boot, HTML, CSS, JavaScript y tengo experiencia en metodologías ágiles.
 
 ---
 
-## Certificación Profesional
+## 🎓🧾 Certificación Profesional
 ### *The Certified Tech Developer Full Stack* 🥇
 
 <p>
@@ -33,23 +35,23 @@ Desarrollador Full Stack con experiencia en frontend y backend, apasionado por c
 
 ---
 
-## Materias Finalizadas 🏆
-- Introducción a la Informática 👌
-- Frontend I 👌
-- Metodología del Trabajo 👌
-- Base de Datos 👌
-- Programación Imperativa 👌
-- Learning Agility 👌
-- Programación Orientada a Objetos 👌
-- Testing 👌
-- Design Thinking 👌
-- Frontend II 👌
-- Infraestructura I 👌
-- UX-UI 👌
-- Backend 👌
-- Soft Skill Training - Comunicación Efectiva 👌
-- Infraestructura II 👌
-- Frontend III 👌
+## [🏆 Materias Finalizadas](https://github.com/LucianoGreco/formacion-academica) 
+ - [Introducción a la Informática 👌](https://github.com/LucianoGreco/formacion-academica/blob/masterIntroducci%C3%B3n_a_la_Inform%C3%A1tica/README.md) 
+- [Frontend I 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Frontend_I/README.md)
+- [Metodología del Trabajo 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Metodologia_del_Trabajo/README.md)
+- [Base de Datos 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Base_de_datos/README.md)
+- [Programación Imperativa 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Programacion_Imperativa/README.md)
+- [Learning Agility 👌]()
+- [Programación Orientada a Objetos 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Programacion_Orientado_a_Objetos/README.md)
+- [Testing 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Testing/README.md)
+- [Design Thinking 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Desing_Thinking/README.md)
+- [Frontend II 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Frontend_II/README.md)
+- [Infraestructura I 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Infraestructura_I/README.md)
+- [UX-UI 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/UX-UI/README.md)
+- [Backend 👌](https://github.com/LucianoGreco/formacion-academica/blob/master/Backend/README.md)
+- [Soft Skill Training - Comunicación Efectiva 👌](https://github.com/LucianoGreco/formacion-academica/tree/master/Soft_skill_training)
+- [Infraestructura II 👌](https://github.com/LucianoGreco/formacion-academica/tree/master/Infraestructura_II)
+- [Frontend III 👌]()
 - Team Work and Collaboration 👌
 - Programa de Desarrollo Profesional 👌
 - Especialización Backend 📚 *En proceso...*
@@ -57,32 +59,35 @@ Desarrollador Full Stack con experiencia en frontend y backend, apasionado por c
 
 ---
 
-## Experiencia Profesional
+## 👷‍♀️ Experiencia Profesional
 
-**Desarrollador Backend, Tech Solutions**  
-Enero 2023 - Presente  
-- Desarrollé e implementé APIs RESTful en Spring Boot para mejorar el rendimiento del sistema en un 20%.
-- Colaboré en un equipo ágil para optimizar procesos backend, reduciendo el tiempo de procesamiento en un 30%.
+1. **📺 FlayersTv**  
+   Aplicación de transmisión de contenido vía streaming, con un amplio catálogo de películas y series.
 
-**Desarrollador Frontend, Web Innovate**  
-Mayo 2021 - Diciembre 2022  
-- Implementé interfaces de usuario responsivas usando HTML, CSS y JavaScript, mejorando la retención de usuarios en un 15%.
-- Optimicé el rendimiento del frontend reduciendo el tiempo de carga en un 25%.
+2. **👩‍🚀 Aplicación Novva**  
+   Proyecto dirigido a apasionados de la astrología, con foro y comunidad abierta para difundir eventos astrológicos y de turismo.
 
-**Propietario y Encargado, Ferreluc**  
-Desde 2016  
-- Dirijo un negocio de ferretería dedicada a la venta de máquinas, herramientas e insumos para el hogar.
-- Encargado de stock, ventas, proveedores, administración y atención al cliente.
+3. **🏐 Fulbo4u**  
+   Aplicación web para alquilar y vender implementos deportivos, enfocada en artículos para el fútbol.
+
+4. **🪓 MegaMadera**  
+   Página web empresarial para la venta de melaminas, muebles, diseños y equipamiento para el hogar y oficinas.
+
+5. **🔨 Ferreluc**  
+   Negocio de ferretería, dedicada a la venta de máquinas, herramientas e insumos para el hogar, donde soy dueño. El negocio lleva 8 años en actividad. Encargado de stock, ventas, proveedores, administración y atención al cliente.
+
+6. **💾 Otros Proyectos Chicos**  
+   Participación en diversos proyectos de menor envergadura que consolidan mis habilidades en desarrollo web y gestión de aplicaciones.
 
 ---
 
-## Educación
+## 📚 Educación
 Certificación en Desarrollo Full Stack, Universidad XYZ  
 Junio 2023
 
 ---
 
-## Habilidades Técnicas
+## 🧪🔬 Habilidades Técnicas
 
 - **Frontend:** HTML, CSS, JavaScript, Figma  
 - **Backend:** Java, Spring Boot, Hibernate  
@@ -92,7 +97,7 @@ Junio 2023
 
 ---
 
-## Tecnologías y Herramientas
+## 🔧🔩 Tecnologías y Herramientas 
 <p align="center">
     <img src="./img/Logos/html.png" alt="HTML" width="50" height="50"/> 
     <img src="./img/Logos/css.png" alt="CSS" width="50" height="50"/> 
@@ -115,33 +120,13 @@ Junio 2023
     <img src="./img/Logos/diagrams.png" alt="Diagrams" width="50" height="50"/> 
     <img src="./img/Logos/trello.png" alt="Trello" width="50" height="50"/> 
     <img src="./img/Logos/notion.png" alt="Notion" width="50" height="50"/> 
+    <img src="./img/Logos/aws.png" alt="Notion" width="50" height="50"/> 
+    <img src="./img/Logos/chatgpt.png" alt="Notion" width="50" height="50"/> 
 </p>
 
 ---
 
-## Proyectos Destacados
-
-1. **FlayersTv**  
-   Aplicación de transmisión de contenido vía streaming, con un amplio catálogo de películas y series.
-
-2. **Aplicación Novva**  
-   Proyecto dirigido a apasionados de la astrología, con foro y comunidad abierta para difundir eventos astrológicos y de turismo.
-
-3. **Fulbo4u**  
-   Aplicación web para alquilar y vender implementos deportivos, enfocada en artículos para el fútbol.
-
-4. **MegaMadera**  
-   Página web empresarial para la venta de melaminas, muebles, diseños y equipamiento para el hogar y oficinas.
-
-5. **Ferreluc**  
-   Negocio de ferretería, dedicada a la venta de máquinas, herramientas e insumos para el hogar, donde soy dueño. El negocio lleva 8 años en actividad. Encargado de stock, ventas, proveedores, administración y atención al cliente.
-
-6. **Otros Proyectos Chicos**  
-   Participación en diversos proyectos de menor envergadura que consolidan mis habilidades en desarrollo web y gestión de aplicaciones.
-
----
-
-## Certificaciones Adicionales
+## 🥇🥉 Certificaciones Adicionales
 <p>
     <img src="./img/Certificados/CertificadoUdemy.png" alt="Certificado Udemy" width="150" height="150"/>
     <img src="./img/Certificados/CertificadoDigital.jpg" alt="Certificado Tech Developer" width="150" height="150"/>
@@ -150,13 +135,14 @@ Junio 2023
 
 ---
 
-## Contacto
+## 📲📞 Contacto
 **Luciano Gabriel Greco**  
 **Full Stack Developer**  
 [LinkedIn](https://www.linkedin.com/in/luchogrecodevelopers) | [Formacion](https://github.com/LucianoGreco/formacion-academica) | [GitHub](https://github.com/LucianoGreco) |
 [Gmail](grecolucianogabriel@gmailcom)
+
 ---
 
-## Idiomas  
+## 👅 Idiomas  
 - Español: Nativo  
 - Inglés: 1 año (2024)
