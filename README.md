@@ -31,7 +31,8 @@ Desarrollador Full Stack con experiencia en frontend y backend, apasionado por c
     <img src="./img/Logos/udemy.png" alt="Udemy" width="120" height="50"/>
      <img src="./img/Logos/utn.png" alt="Udemy" width="120" height="40"/>
 </p>
-> Avalado por las firmas: | **Digital House** | Globant | **Mercado Libre**
+
+> Avalado por las firmas: | Digital House | Globant | Mercado Libre
 
 ---
 
